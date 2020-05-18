@@ -1,5 +1,3 @@
-// Emanoelle Luanda F. S. Brito RA 2019740696
-
 #include <stdio.h>
 
 int main()
